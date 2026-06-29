@@ -206,7 +206,7 @@ This project is intended for educational and learning purposes.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Aditya**
 
 Data Science Enthusiast 
 
